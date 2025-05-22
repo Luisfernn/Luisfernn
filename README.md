@@ -1,16 +1,17 @@
-## Hi there 👋
+Luis Fernando Nascimento Araujo
 
-<!--
-**Luisfernn/Luisfernn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! 😅
 
-Here are some ideas to get you started:
+👤 SOBRE MIM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥 Atualmente cursando Engenharia de Software
+🔢 Apaixonado por dados 
+🎯 Futuro Engenheiro de Dados 
+
+
+Linguagens e ferramentas: 🔥
+
+🐘 SQL 
+🐍 Python
+☁️ AWS 
+
