@@ -3,12 +3,12 @@
 
 
 
-## Hello World! 😅
+### Hello World! 😅
 
 
 
 
-# 👤 SOBRE MIM
+# 👤 SOBRE MIM:
 
 
 🖥 Atualmente cursando Engenharia de Software
