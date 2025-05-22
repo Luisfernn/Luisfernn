@@ -1,10 +1,10 @@
-Luis Fernando Nascimento Araujo
+# Luis Fernando Nascimento Araujo
 
 
-Hello World! 😅
+## Hello World! 😅
 
 
-👤 SOBRE MIM
+# 👤 SOBRE MIM
 
 🖥 Atualmente cursando Engenharia de Software
 
@@ -15,7 +15,7 @@ Hello World! 😅
 🎯 Futuro Engenheiro de Dados 
 
 
-Linguagens e ferramentas: 🔥
+## Linguagens e ferramentas: 🔥
 
 🐘 SQL 
 
